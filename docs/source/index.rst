@@ -18,7 +18,6 @@ Music docs:
    musicman
    instrument_issues
    sound1
-   sound2
 
 Indices and tables
 ==================
