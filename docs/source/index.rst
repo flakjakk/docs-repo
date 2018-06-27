@@ -8,6 +8,7 @@ Simple Documentation for Everything!
 
    LICENSE
    help
+   contact
 
 Music docs:
 
