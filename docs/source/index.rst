@@ -4,6 +4,7 @@ Simple Documentation for Everything!
 
 .. toctree::
    :maxdepth: 2
+   :glob:
 
 
    LICENSE
