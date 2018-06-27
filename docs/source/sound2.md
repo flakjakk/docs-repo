@@ -1,35 +1,35 @@
-## Mixers
+# Mixers
 
-### Analog / digital desks
+## Analog / digital desks
 - How mixers work
 - How a channel on the mixer works
 - Auxiliaries
 
-### EQ
+## EQ
 - Room
 - PA
 - Voices
 - Instruments
 
-### Effects
+## Effects
 - Reverb
 - Delay
 
-## Microphone choice and usage
+# Microphone choice and usage
 
-### Voice
+## Voice
 
-### Instruments
+## Instruments
 
-### Kit
+## Kit
 
-## Monitoring
+# Monitoring
 
-### Speakers
+## Speakers
 
-### In-ear
+## In-ear
 
-## Things to consider
+# Things to consider
 
 - The placebo effect
 - The subjectivity of listeners
