@@ -34,3 +34,4 @@ Imagine a horizontal line running across the front of the stage from left to rig
 
 These are some very basic guidelines – you will have to use your discretion in all cases.
 
+### Balancing acts
