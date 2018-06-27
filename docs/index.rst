@@ -8,6 +8,12 @@ Simple Documentation for Everything!
 
    LICENSE
    help
+
+Music docs:
+
+.. toctree::
+   :maxdepth: 2
+   
    test
 
 Indices and tables
