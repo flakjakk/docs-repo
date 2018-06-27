@@ -1,3 +1,7 @@
+# Using your instrument
+
+(or: What goes where? And how? And when? ;-)
+
 ## Lead / rhythm guitar issues
 
 Knowing how to really play the guitar is the first step. Once you can follow a chord sheet, play the chords, and string them together in a meaningful way, you are at the bottom of the stair-case. There is a long way to go to get to the top. The target is to learn how to use the guitar in context.
