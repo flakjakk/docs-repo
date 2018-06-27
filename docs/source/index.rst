@@ -17,6 +17,7 @@ Music docs:
    :glob:
 
    musicman
+   instrument_issues
 
 Indices and tables
 ==================
