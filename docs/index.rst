@@ -8,7 +8,7 @@ Simple Documentation for Everything!
 
    LICENSE
    help
-   BetterMusic
+   test
 
 Indices and tables
 ==================
