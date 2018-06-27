@@ -15,7 +15,7 @@ Music docs:
 .. toctree::
    :maxdepth: 2
    
-   test
+   musicman
 
 Indices and tables
 ==================
