@@ -22,3 +22,15 @@ As the sound engineer your job is to mix the sound coming off stage in such a wa
 Starting off with a standard MONO mix ie. all the channels are panned to the centre so that the sounds are coming equally from the left and right speakers. They are in effect clumped together in the centre of the sound field. There will be a varying amount sound coming off stage from the monitors [if the musicians aren’t using in-ear-monitors] as well as the guitar amps and more importantly, the kit. You will have to deal with these on an individual basis.
 
 Imagine a horizontal line running across the front of the stage from left to right situated at the point where musicians start to hear the PA above the stage volume.
+
+
+## Where to put them all
+
+**Vocals:** While you should leave the lead vox in the centre you can create some lateral space around them by panning the backing vox further to left or right while adding some reverb to push them back from the front of stage a little [not enough to muffle them completely, mind].
+
+**Kit:** Start with the kick at centre, the snare off-set slightly left and the hats right. Pan the toms left, centre and right [if there are 3 toms].
+
+**Guitar and bass:** Pan them away from their side of the stage ie. if the guitar or bass amp is on stage left pan their channel slightly right and vice versa.
+
+These are some very basic guidelines – you will have to use your discretion in all cases.
+
