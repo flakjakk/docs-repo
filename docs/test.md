@@ -1,6 +1,3 @@
-Test
-====
-
 # Welcome to The Better Music Manual!
 
 ## How can we help you?
