@@ -1,4 +1,5 @@
 ## Mixers
+
 ### Analog / digital desks
 - How mixers work
 - How a channel on the mixer works
@@ -33,4 +34,3 @@
 - The placebo effect
 - The subjectivity of listeners
 - Prima donnas / Divas
-
