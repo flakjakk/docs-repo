@@ -1,7 +1,6 @@
 Simple Documentation for Everything!
 ====================================
 
-
 .. toctree::
    :maxdepth: 2
    :glob:
@@ -18,6 +17,7 @@ Music docs:
 
    musicman
    instrument_issues
+   sound1
 
 Indices and tables
 ==================
