@@ -17,9 +17,9 @@ Music docs:
    :caption: Table of Contents
 
    musicman
-   instrument_issues
    sound1
    sound2
+   instrument_issues
    stage_setup
 
 Indices and tables
