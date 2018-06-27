@@ -8,6 +8,7 @@ Simple Documentation for Everything!
 
    LICENSE
    help
+   BetterMusic
 
 Indices and tables
 ==================
