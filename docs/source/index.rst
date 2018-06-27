@@ -14,6 +14,7 @@ Music docs:
 .. toctree::
    :maxdepth: 2
    :glob:
+   :caption: Table of Contents
 
    musicman
    instrument_issues
