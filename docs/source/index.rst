@@ -19,6 +19,7 @@ Music docs:
    instrument_issues
    sound1
    sound2
+   stage_setup
 
 Indices and tables
 ==================
