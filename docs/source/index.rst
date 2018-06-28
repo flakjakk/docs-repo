@@ -18,6 +18,7 @@ Music docs:
 
    intro
    musicman
+   whatlearn
    sound1
    sound2
    instrument_issues
