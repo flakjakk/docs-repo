@@ -37,3 +37,5 @@ Imagine a horizontal line running across the front of the stage from left to rig
 These are some very basic guidelines – you will have to use your discretion in all cases.
 
 ### Balancing acts
+
+Sometimes there is a fine line between "Should I turn the lead vocal up?" and "Should I turn the instruments and / or kit down?". Or the answer might be neither - perhaps all that's required is for you to clean up the eq on the vocal to lift it out of the mix enough. The answer will be situation dependent, and you need to decide for yourself.
