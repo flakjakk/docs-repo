@@ -19,6 +19,7 @@ Music docs:
    intro
    musicman
    whatlearn
+   fourstages
    sound1
    sound2
    instrument_issues
