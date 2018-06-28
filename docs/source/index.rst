@@ -16,6 +16,7 @@ Music docs:
    :glob:
    :caption: Table of Contents
 
+   intro
    musicman
    sound1
    sound2
