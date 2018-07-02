@@ -23,6 +23,9 @@ Music docs:
    sound1
    sound2
    monitoring
+   microphone
+   effects
+   eq
    instrument_issues
    stage_setup
 
