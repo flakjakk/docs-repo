@@ -29,6 +29,7 @@ Music docs:
    eq
    instrument_issues
    stage_setup
+   pricing
 
 Indices and tables
 ==================
