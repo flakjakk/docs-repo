@@ -1,4 +1,11 @@
-## Effects
-- Reverb
-- Delay
-- Compressor
+Effects
+*******
+
+Reverb
+######
+
+Delay
+#####
+
+Compressor
+##########
