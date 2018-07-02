@@ -21,6 +21,7 @@ Music docs:
    whatlearn
    fourstages
    sound1
+   soundfield
    sound2
    monitoring
    microphone
