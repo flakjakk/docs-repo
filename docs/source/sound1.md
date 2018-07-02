@@ -2,15 +2,23 @@
 
 ## Basics
 
-## Headroom
+### Sound-chain from source to speaker
 
+### Speakers
 
-## Vol vs Gain
+### Amps
 
-### - Line-in / -outs
-### - Cables and jacks
-### - DI – when to use it [and when not to]
-### - Terminology issues
-### - Sound-chain from source to speaker
+#### Headroom
 
+### Mixers
+
+#### Vol vs Gain
+
+#### Line-in / -outs
+
+#### Cables and jacks
+
+#### DI – when to use it [and when not to]
+
+#### Terminology issues
 
