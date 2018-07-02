@@ -4,21 +4,21 @@
 
 ### Sound-chain from source to speaker
 
-### Speakers
+## Speakers
 
-### Amps
+## Amps
 
-#### Headroom
+### Headroom
 
-### Mixers
+## Mixers
 
-#### Vol vs Gain
+### Vol vs Gain
 
-#### Line-in / -outs
+### Line-in / -outs
 
-#### Cables and jacks
+### Cables and jacks
 
-#### DI – when to use it [and when not to]
+### DI – when to use it [and when not to]
 
-#### Terminology issues
+## Terminology issues
 
