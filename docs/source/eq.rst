@@ -1,6 +1,14 @@
-## EQ
-- Room
-- PA
-- Voices
-- Instruments
+EQ
+**
 
+Room
+####
+
+PA
+##
+
+Voices
+######
+
+Instruments
+###########
