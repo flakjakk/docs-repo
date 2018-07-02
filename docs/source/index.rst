@@ -22,6 +22,7 @@ Music docs:
    fourstages
    sound1
    sound2
+   monitoring
    instrument_issues
    stage_setup
 
