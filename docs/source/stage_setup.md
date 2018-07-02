@@ -61,8 +61,9 @@ Everyone should have a basic understanding of where everything goes, and how it 
 Get all gear close to where it will be set up  
 
 Never place your monitor or PA speakers where a stage mike might point directly at the speaker. Try it if you want to find out why not.  
-
+```
 Rule of thumb: the source of the sound must be as good [clean, noiseless, pleasant] as possible - amplifying a bad sound only makes things exponentially worse
+```
 
 > TIP: Loud does not equal better or more powerful - usually it's just loud.  
 
