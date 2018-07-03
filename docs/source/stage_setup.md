@@ -3,21 +3,17 @@
 
 ## Neatness
 
-Cable issues
-############
+## Power supply
 
-Power supply
-############
 
-At the gig . . .
-****************
+# At the gig . . .
 
-Be there on time to set EVERYTHING up and test it all before the band guys start setting up.
+
+..note:: Be there on time to set EVERYTHING up and test it all before the band guys start setting up.
+
 Avoiding headaches: Be prepared!
-- Extra cables [line and power]
-- Batteries
 
-### Cabling
+## Cabling
 
 > Tip: Make sure you have enough power and audio cables for everything, then add at least two spare power , speaker and audio cables.
 
