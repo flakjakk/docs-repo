@@ -1,9 +1,7 @@
 
-Stage setup
-***********
+# Stage setup
 
-Neatness
-########
+## Neatness
 
 Cable issues
 ############
