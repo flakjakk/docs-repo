@@ -16,8 +16,8 @@ Music docs:
    :glob:
    :caption: Table of Contents
 
-   intro
    musicman
+   intro
    whatlearn
    fourstages
    sound1
