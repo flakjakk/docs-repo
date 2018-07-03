@@ -28,6 +28,7 @@ Music docs:
    effects
    eq
    instrument_issues
+   getting-better
    stage_setup
    band-placement
    personal-responsibility
