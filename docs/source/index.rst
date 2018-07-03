@@ -29,6 +29,8 @@ Music docs:
    eq
    instrument_issues
    stage_setup
+   band-placement
+   personal-responsibility
    pricing
 
 Indices and tables
