@@ -34,7 +34,7 @@ I will use a typical configuration for our band - a drum kit, bass guitar, two l
 	1. Guitars 1 and 2 as well as the bass player use a typical setup ie. guitar plugged through effect pedals into an amp which is miked or lined-out and the signal sent to the mixer.
 	2. The kit has two mikes, one for the kick and one for overhead - not normally used.
 	3. The lead singer uses a mike for vox and sometimes mouth organ.
-	3.All three guitarists sing backing vox.
+	4.All three guitarists sing backing vox.
 
 Kit
 ---
