@@ -1,9 +1,9 @@
 
 Stage setup
-***********
+###########
 
 At the gig . . .
-################
+****************
 
 .. note:: Be there on time to set EVERYTHING up and test it all before the band guys start setting up.
 
