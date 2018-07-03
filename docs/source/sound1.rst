@@ -17,23 +17,36 @@ If you have 1000 sound engineers you will get 1000 different ways of getting a s
 Basics
 ######
 
-### Sound-chain from source to speaker
+Sound-chain from source to speaker
+==================================
 
-## Speakers
+Speakers
+--------
 
-## Amps
+Amps
+----
 
-### Headroom
+Headroom
+--------
 
-## Mixers
+What it is, and why you need it!
 
-### Vol vs Gain
+Mixers
+------
 
-### Line-in / -outs
+Vol vs Gain
+-----------
 
-### Cables and jacks
+Line-in / -outs
+---------------
 
-### DI – when to use it [and when not to]
+Cables and jacks
+----------------
 
-## Terminology issues
+DI
+--
 
+When to use it [and when not to].
+
+Terminology issues
+------------------
