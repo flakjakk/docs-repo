@@ -28,6 +28,7 @@ Music docs:
    effects
    eq
    instrument_issues
+   rhythm-section
    getting-better
    stage_setup
    band-placement
