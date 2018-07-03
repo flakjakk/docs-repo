@@ -20,6 +20,7 @@ Music docs:
    intro
    whatlearn
    fourstages
+   basic-premise
    sound1
    soundfield
    sound2
