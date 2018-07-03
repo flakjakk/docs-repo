@@ -31,6 +31,8 @@ Music docs:
    rhythm-section
    getting-better
    stage_setup
+   guitars
+   kit
    band-placement
    personal-responsibility
    pricing
