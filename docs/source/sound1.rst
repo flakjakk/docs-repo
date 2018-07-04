@@ -1,11 +1,10 @@
 Sound
 *****
 
-A broad subject, but necessary. An understanding of the challenges involved in getting good quality sound to the listeners is essential, as is an understanding of the strengths and weaknesses of different amp types, mixers and sound methodologies.
-
-This section is a response to the frustrations I have endured playing live, or doing sound engineering for others who do not know what I know.
+A broad subject, but necessary as an understanding of the challenges involved in getting good quality sound to the listeners is essential.
 
 On Stage
+########
 
 This section addresses some of the issues around on stage or back-line sound and front-of-house sound [anything coming off stage].
 
@@ -13,26 +12,25 @@ I use terms like muddy, wooly, fuzzy, thin, hard, warm, crunch/y, bite, edge, mi
 
 If you have 1000 sound engineers you will get 1000 different ways of getting a sound. I only have one definition for a good front-of-house sound, that is: Listeners MUST be able to hear everything that is played / sung on stage at all times. This is easier said than done.
 
-
 Basics
-######
+======
 
 Sound-chain from source to speaker
-==================================
+----------------------------------
 
 Speakers
---------
+^^^^^^^^
 
 Amps
-----
+^^^^
 
 Headroom
---------
+^^^^^^^^
 
 What it is, and why you need it!
 
 Mixers
-------
+^^^^^^
 
 Vol vs Gain
 -----------
