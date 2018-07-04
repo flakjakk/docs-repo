@@ -22,6 +22,7 @@ Music docs:
    fourstages
    basic-premise
    sound1
+   sound-basics
    soundfield
    sound2
    monitoring
