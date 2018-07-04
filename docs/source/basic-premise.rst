@@ -7,4 +7,4 @@ Thoughout this manual I will use the band 'The Cheap Seats' as an example for us
    :width: 600px
    :alt: The Seats!
 
-  
+As you can see the line-up is straight-forward: two guitars, bass guitar, drums, and everyone has a mike.
