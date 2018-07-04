@@ -8,3 +8,10 @@ Thoughout this manual I will use the band 'The Cheap Seats' as an example for us
    :alt: The Seats!
 
 As you can see the line-up is straight-forward: two guitars, bass guitar, drums, and everyone has a mike.
+
+Our cabling requirements for the stage setup can be depicted as follows:
+
+.. image:: images/cheap-seats-stage-cabling.jpg
+   :width: 600px
+   :alt: Stage cabling
+
