@@ -1,33 +1,34 @@
 The Basics
-==========
+**********
 
 Sound-chain from source to speaker
-----------------------------------
+##################################
 
-Speakers
-^^^^^^^^
+On stage
+========
 
-Amps
-^^^^
+---------------------
 
-Headroom
-^^^^^^^^
+Connecting the stage sound sources to the mixer
+-----------------------------------------------
 
-What it is, and why you need it!
+	- Mike and line sources
+	- DI - When to use it [and when not to].
+	- Cables and jacks
 
 Mixers
 ^^^^^^
 
-Vol vs Gain
------------
-
 Line-in / -outs
----------------
 
-Cables and jacks
-----------------
+Amps
+^^^^
 
-DI
---
+Headroom - What it is, and why you need it!
 
-When to use it [and when not to].
+Vol vs Gain
+
+Speakers
+^^^^^^^^
+
+Which would best fit your needs?
