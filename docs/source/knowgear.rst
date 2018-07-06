@@ -14,5 +14,5 @@ XLR
 
 Link: https://www.dawsons.co.uk/blog/the-mixer-and-its-feature
 
-Click this`link <https://www.dawsons.co.uk/blog/the-mixer-and-its-feature/>`_ for a very good overview.
+Click this link .. _Mixers: https://www.dawsons.co.uk/blog/the-mixer-and-its-feature/ for a very good overview.
 
