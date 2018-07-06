@@ -5,6 +5,5 @@ The Basics
    :maxdepth: 2
 
    knowgear
-   intro
    soundchain
 
