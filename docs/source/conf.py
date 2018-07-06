@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'docs-repo'
+project = 'The Better Music Manual'
 copyright = '2018, Ed Kidgell'
 author = 'Ed Kidgell'
 
