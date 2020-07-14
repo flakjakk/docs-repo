@@ -1,12 +1,8 @@
 Microphone choice and usage
-***************************
+===========================
 
-Voice
-#####
+# Voice
 
-Instruments
-###########
+# Instruments
 
-Kit
-###
-
+# Kit

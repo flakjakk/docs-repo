@@ -1,5 +1,5 @@
 Using your instrument
-*********************
+=====================
 
 (or: What goes where? And how? And when? ;-)
 

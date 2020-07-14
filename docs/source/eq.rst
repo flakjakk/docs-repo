@@ -1,14 +1,16 @@
-EQ
-**
+Equalisation
+============
 
-Room
-####
+# EQ
 
-PA
-##
 
-Voices
-######
+# Room
 
-Instruments
-###########
+
+# PA
+
+
+# Voices
+
+
+# Instruments
